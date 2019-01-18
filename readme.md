@@ -2,7 +2,7 @@
 
 ### Run
 1. `npm install`
-2. `build-ts`
+2. `npm run build-ts`
 3. `npm start`
 
 ### Develop
